@@ -1,0 +1,5 @@
+bertopic
+pandas
+tqdm
+plotly
+jupyter-autotime
